@@ -16,9 +16,9 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
-    printf("Hi this is David Savrda");
   // Add your name here.  Be sure it still compiles.
 
+  printf("Hi this is David Savrda");
   printf("Ian Kowalski was here\n");
   printf("Hey, this is Mike McDonald!!!\n");
   printf("Hey, this is David Cooper\n");
