@@ -26,5 +26,6 @@ int main(int argc, char **argv)
   printf("This is Will Elswick\n");
   printf("Alex Alvarez Here\n");
   printf("Hi this is James Savage\n");
+  printf("Hi, this is Junxuan Hou\n");
   return 0;
 }
