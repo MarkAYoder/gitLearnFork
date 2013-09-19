@@ -16,6 +16,7 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+  printf("Another test\n");
   // Add your name here.  Be sure it still co
   printf("Hi this is David Savrda");
   printf("Ian Kowalski was here\n");
