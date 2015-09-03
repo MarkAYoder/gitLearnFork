@@ -21,7 +21,7 @@ int main(int argc, char **argv)
   printf("This address (%p) is in our data section\n", &data_var);
 
   printf("\n");
-  printf("Hi this is Mark A. Yoder\n");
+  printf("Hi this is Srinath Mupparsi\n");
   // Add your name here.  Be sure it stills compiles
 
   return 0;
