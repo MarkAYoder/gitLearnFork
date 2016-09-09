@@ -30,5 +30,6 @@ int main(int argc, char **argv)
   printf("Hi this is George F. Rung\n");
   printf("Hi this is Josh Woods\n");
   printf("Hi this is Joseph Militello\n");
+  printf("Hi this is Hazen Hamather\n");
   return 0;
 }
