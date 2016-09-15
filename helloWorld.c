@@ -7,7 +7,7 @@ int data_var = 1;   /* Initialized global variable */
 int main(int argc, char **argv)
 {
   void *stack_var;            /* Local variable on the stack */
-  
+
   stack_var = (void *)main;   /* Don't let the compiler */
                               /* optimize it out */
 
@@ -22,8 +22,15 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+  printf("Hi this is Alvin Koontz\n");
   // Add your name below here.  Be sure it stills compiles
   printf("Behold David Caggiano. Destroyer of Pies, Beholden to no cake man can create\n");
+  printf("This is Austin Yates\n");
+  printf("This is David Mehl\n");
+  printf("Hi this is Luke J. Kuza\n");
+  printf("HI IM SABEEH");
+  printf("Hi this is George F. Rung\n");
+  printf("Hi this is Josh Woods\n");
+  printf("Hi this is Joseph Militello\n");
   return 0;
 }
-
