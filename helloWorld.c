@@ -28,6 +28,7 @@ int main(int argc, char **argv)
   printf("Hi this is Luke J. Kuza\n");
   printf("HI IM SABEEH");
   printf("Hi this is George F. Rung\n");
+  printf("Tim smith was here!")
   printf("Hi this is Josh Woods\n");
   printf("Hi this is Joseph Militello\n");
   return 0;
