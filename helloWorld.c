@@ -29,8 +29,14 @@ int main(int argc, char **argv)
   printf("Hi this is Adam Wiesler\n");
   printf("Hello I am Joey Pierce\n");
   printf("Hi this is Dustin Kline\n");
+  printf("Hi this is Shuyue (Yvette) Weng\n");
   printf("Hi this is Donglai Guo\n");
+<<<<<<< HEAD
   printf("Hi this is Yuchen Wang\n");
+=======
+  printf("Hi this is John Wang\n");
+  printf("Hello, I'm Chace Beard\n");
+>>>>>>> upstream/master
 
   return 0
 }
