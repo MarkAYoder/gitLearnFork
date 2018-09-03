@@ -11,6 +11,7 @@ int main(int argc, char **argv)
   stack_var = (void *)main;   /* Don't let the compiler */
                               /* optimize it out */
 
+  printf("Griffin Steffy");
   printf("Hello, World! Main is executing at %p\n", stack_var);
   printf("This address (%p) is in our stack frame\n", &stack_var);
 
