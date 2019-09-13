@@ -31,6 +31,7 @@ int main(int argc, char **argv)
   printf("Hi this is Zach Forster\n");
   printf("Hi this is Hannah Woody\n");
   printf("Hi this is Brock Grinstead\n");
+  printf("Hi this is Maria Schaefer\n");
   printf("Hi this is Dalton Stichtenoth\n");
   printf("Hi this is Blake Emmert\n");
   printf("Hi this is Isaac Austin\n");
