@@ -24,22 +24,6 @@ int main(int argc, char **argv)
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
   // Add your name below here.  Be sure it stills compiles
-  printf("Hi this is Andy Barbour\n");
-  printf("Hi this is Brendan Mulholland\n");
-  printf("Hi this is Ryan Oberlitner\n");
-  printf("Hi this is Rahul Das\n");
-  printf("Hi this is Zach Forster\n");
-  printf("Hi this is Hannah Woody\n");
-  printf("Hi this is Brock Grinstead\n");
-  printf("Hi this is Maria Schaefer\n");
-  printf("Hi this is Dalton Stichtenoth\n");
-  printf("Hi this is Blake Emmert\n");
-  printf("Hi this is Isaac Austin\n");
-  printf("Hi this is Isaac Lau\n");
-  printf("Hi this is Leela Pakanati\n");
-  printf("Hi this is Mark Procter\n");
-  printf("Hi this is Connor Mattox\n");
-  printf("Hi this is Maddy Twetten\n");
-  printf("Hi this is Seun Ladipo\n");
+
   return 0;
 }
