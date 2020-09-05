@@ -17,4 +17,5 @@ print("Hi, this is Peter Venema")
 
 print("Hi, this is Craig McGee Jr.")
 print("Hi, This is Luke Clinton")
+print("Hi, this is Christina Rogers")
 print("Hi, this is Ryan Taylor")
