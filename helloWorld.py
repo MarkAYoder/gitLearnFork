@@ -11,17 +11,4 @@ print("Hello, World!")
 print("\r")
 
 print("Hi, this is Mark A. Yoder")
-print("Hi, this is Emily Dougherty")
-print("Hi, this is Peter Venema") 
 # Add your name below here.  Be sure it still runs.
-
-print("Hi, this is Craig McGee Jr.")
-print("Hi, This is Luke Clinton")
-print("Hi, this is Christina Rogers")
-print("Hi, this is Ryan Taylor")
-print("Hi, this is Aman Bajaj")
-print("Hi, this is Zach Hyde")
-print("Hi, this is James Werne")
-print("Hi, this is Eric Kirby")
-print("Hi, this is Haoxuan Sun")
-print("Hi, this is Heda Wang")
