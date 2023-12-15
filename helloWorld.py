@@ -7,5 +7,6 @@ print("Hi, this is Mark A. Yoder")
 
 print("Ash Collins")
 print("Hi, this is Sean Hyacinthe")
-
 print("Hi this is Joey Gawron")
+print("Hi, this is Noah Lee!")
+print("Hi, this is Jintian ZHang")
